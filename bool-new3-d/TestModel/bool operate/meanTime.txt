@@ -1,0 +1,4 @@
+SDMmean time: 74176.5
+SAHmean time: 232948
+OBBmean time: 237556
+Gravitymean time: 193353
